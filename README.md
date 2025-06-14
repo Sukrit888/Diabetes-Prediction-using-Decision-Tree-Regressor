@@ -1,1 +1,0 @@
-# Diabetes-Prediction-using-Decision-Tree-Regressor
