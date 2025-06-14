@@ -61,7 +61,7 @@ This project focuses on predicting **diabetes progression** using a **Decision T
 ## 🚀 How to Run
 
 1. Open in Google Colab:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+   [![Open In Colab](https://colab.research.google.com/drive/19JartHw63_msxphBIXnQl5MPr58_FPZs?usp=sharing)
 
 2. Upload and run the notebook:  
    `Diabetes_Prediction_using_Decision_Tree_Regressor.ipynb`
